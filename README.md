@@ -15,3 +15,10 @@
 - Git History
 - vscode-icons
 - Babel
+- Rainbow Brackets
+- Git Blame
+- Drupal Syntax Highlighting
+- Path Intellisense
+- beautify
+- minify
+- markdownlint
