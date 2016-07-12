@@ -61,3 +61,4 @@
 - beautify
 - minify
 - markdownlint
+- Annotator
