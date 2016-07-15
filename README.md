@@ -50,15 +50,15 @@
 
 ### Extensions
 
-- Material Neutral
-- Git History
-- vscode-icons
-- Babel
-- Rainbow Brackets
-- Git Blame
-- Drupal Syntax Highlighting
-- Path Intellisense
-- beautify
-- minify
-- markdownlint
-- Annotator
+- Material Neutral | ext install theme-material-neutral
+- Git History | ext install githistory
+- vscode-icons | ext install vscode-icons
+- Babel | ext install vscode-babel-coloring
+- Rainbow Brackets | ext install rainbow-brackets
+- Git Blame | ext install gitblame
+- Drupal Syntax Highlighting | ext install VS-code-drupal
+- Path Intellisense | ext install path-intellisense
+- beautify | ext install beautify
+- minify | ext install minify
+- markdownlint | ext install vscode-markdownlint
+- Annotator | ext install annotator
