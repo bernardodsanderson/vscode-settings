@@ -62,3 +62,4 @@
 - minify | ext install minify
 - markdownlint | ext install vscode-markdownlint
 - Annotator | ext install annotator
+- Shortcuts | ext install shortcuts
