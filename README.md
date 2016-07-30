@@ -63,3 +63,4 @@
 - markdownlint | ext install vscode-markdownlint
 - Annotator | ext install annotator
 - Shortcuts | ext install shortcuts
+- Output Colorizer | ext install output-colorizer
