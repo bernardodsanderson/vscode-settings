@@ -15,6 +15,11 @@
   "editor.cursorStyle": "line",
   // The path of the shell that the terminal uses on Linux.
   "terminal.integrated.shell.linux": "/bin/zsh",
+  
+  "shortcuts.buttons": [
+    "terminal , workbench.action.terminal.toggleTerminal , Toggle terminal panel",
+    "telescope , workbench.action.showCommands , Show command palette"
+  ],
 
   // The path of the shell that the terminal uses on OS X.
   "terminal.integrated.shell.osx": "/bin/zsh",
