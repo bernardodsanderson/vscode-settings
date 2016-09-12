@@ -57,7 +57,7 @@
 
 - Material Neutral | ext install theme-material-neutral
 - Git History | ext install githistory
-- vscode-icons | ext install vscode-icons
+- Material Icon Theme | ext install material-icon-theme
 - Babel | ext install vscode-babel-coloring
 - Rainbow Brackets | ext install rainbow-brackets
 - Git Blame | ext install gitblame
