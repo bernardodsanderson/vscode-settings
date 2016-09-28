@@ -3,9 +3,9 @@
 ```
 // Place your settings in this file to overwrite the default settings
 {
-	"editor.fontFamily": "Roboto Mono, Menlo, Inconsolata",
-	"editor.fontSize": 11,
-	"editor.wrappingColumn": 0,
+  "editor.fontFamily": "Roboto Mono, Menlo, Inconsolata",
+  "editor.fontSize": 11,
+  "editor.wrappingColumn": 0,
   "editor.tabSize": 2,
   "editor.lineHeight": 14,
   "explorer.workingFiles.maxVisible": 12,
@@ -23,7 +23,7 @@
 
   // The path of the shell that the terminal uses on OS X.
   "terminal.integrated.shell.osx": "/bin/zsh",
-  "terminal.integrated.fontFamily": "\"Inconsolata\", \"Inconsolata for Powerline\", Consolas, \"Droid Sans Mono\", \"Courier New\", monospace, \"Droid Sans Fallback\"",
+  // "terminal.integrated.fontFamily": "\"Inconsolata\", \"Inconsolata for Powerline\", Consolas, \"Droid Sans Mono\", \"Courier New\", monospace, \"Droid Sans Fallback\"",
   "minify.js": {
       "sequences": true,
       "properties": true,
