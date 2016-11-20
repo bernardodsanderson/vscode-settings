@@ -3,7 +3,7 @@
 ```
 // Place your settings in this file to overwrite the default settings
 {
-  "editor.fontFamily": "Roboto Mono, Menlo, Inconsolata",
+  "editor.fontFamily": "Fira Code, Roboto Mono, Menlo, Inconsolata",
   "editor.fontSize": 11,
   "editor.wrappingColumn": 0,
   "editor.tabSize": 2,
@@ -11,7 +11,8 @@
   "explorer.workingFiles.maxVisible": 12,
   "explorer.openEditors.visible": 0,
   "editor.scrollBeyondLastLine": false,
-  "editor.renderWhitespace": false,
+  "editor.renderWhitespace": "all",
+  "git.confirmSync": false,
   "editor.cursorStyle": "line",
   // The path of the shell that the terminal uses on Linux.
   "terminal.integrated.shell.linux": "/bin/zsh",
