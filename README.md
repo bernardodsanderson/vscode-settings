@@ -14,6 +14,7 @@
   "editor.renderWhitespace": "all",
   "git.confirmSync": false,
   "editor.cursorStyle": "line",
+  "telemetry.enableTelemetry": false,
   // The path of the shell that the terminal uses on Linux.
   "terminal.integrated.shell.linux": "/bin/zsh",
   
